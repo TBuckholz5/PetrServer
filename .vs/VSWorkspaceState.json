@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\lib",
+    "\\src",
+    "\\src\\chat",
+    "\\src\\server"
+  ],
+  "SelectedNode": "\\include\\chat.h",
+  "PreviewInSolutionExplorer": false
+}

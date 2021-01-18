@@ -1,0 +1,4 @@
+User added with (name=peter), (fd=5)
+Client thread created (tid=140240754411264), (name=peter), (fd=5)
+User added with (name=pattis), (fd=6)
+Client thread created (tid=140240746018560), (name=pattis), (fd=6)
